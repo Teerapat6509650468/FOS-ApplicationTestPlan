@@ -1,7 +1,3 @@
-Here's the updated README with the requested sections removed:
-
----
-
 # Faculty of Science Application Submission System - Test Plan
 
 ## Overview
