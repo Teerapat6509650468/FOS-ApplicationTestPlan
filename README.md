@@ -30,10 +30,6 @@ This project contains a comprehensive test plan for the Faculty of Science appli
 
 Feel free to fork this repository and contribute to the project. If you'd like to contribute, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 This version removes the sections you wanted excluded while keeping the focus on the test plan, technologies, and strategy. Let me know if you need further adjustments!
